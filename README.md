@@ -4,7 +4,7 @@
 
 ORBIS is a real-time satellite tracking web application that visualizes the live positions of hundreds of objects orbiting Earth, including the ISS, Starlink constellation, weather satellites, and tracked debris using actual orbital mechanics.
 
-![ORBIS Screenshot]("C:\Users\singh_qo2o1rb\orbis\screenshots\Screenshot 2026-02-27 222637.png")
+![ORBIS Screenshot](screenshots/demo.png)
 
 ---
 
