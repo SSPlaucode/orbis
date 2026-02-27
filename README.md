@@ -101,7 +101,7 @@ http://localhost:5000
 
 ## 👤 Team
 
-Built solo at HackJMI 2025 in 48 hours.
+Built solo
 
 ---
 
