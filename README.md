@@ -1,6 +1,6 @@
 # 🛰 ORBIS — Live Satellite Tracker
 
-> **HackJMI 2025 · Future Tech Track**
+> **HackJMI · Future Tech Track**
 
 ORBIS is a real-time satellite tracking web application that visualizes the live positions of hundreds of objects orbiting Earth, including the ISS, Starlink constellation, weather satellites, and tracked debris using actual orbital mechanics.
 
