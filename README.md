@@ -1,4 +1,4 @@
-# 🛰 ORBIS — Live Satellite Tracker
+# 🛰 ORBIS - Live Satellite Tracker
 
 > **HackJMI · Future Tech Track**
 
@@ -65,7 +65,7 @@ orbis/
 
 ## 🚀 Running the Project
 
-### Option 1 — Browser only (quick demo)
+### Option 1 - Browser only (quick demo)
 ```bash
 # Just open the file
 open index.html   # macOS
@@ -73,7 +73,7 @@ open index.html   # macOS
 ```
 Uses fallback TLE data if Celestrak is unreachable due to CORS.
 
-### Option 2 — With Flask backend (full live data)
+### Option 2 - With Flask backend (full live data)
 ```bash
 # Install dependencies
 pip install -r requirements.txt
@@ -101,7 +101,7 @@ http://localhost:5000
 
 ## 👤 Team
 
-Built solo
+Built solo for Hack JMI
 
 ---
 
